@@ -17,3 +17,5 @@ Provides an RTS-style camera view, complete with proper wall clipping and aiming
 ## Media
 
 ![Screenshot 1](https://i.imgur.com/aNLhjQh.jpg)
+![Screenshot 2](https://i.imgur.com/3fluWwh.jpg)
+![Screenshot 3](https://i.imgur.com/fApkGTW.jpg)
