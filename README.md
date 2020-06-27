@@ -13,3 +13,7 @@ Provides an RTS-style camera view, complete with proper wall clipping and aiming
 4. You can move around with WASD
 5. You can zoom in and out using ctrl and shift
 6. If you have any questions feel free to open up an issue.
+
+## Media
+
+![Screenshot 1](https://i.imgur.com/aNLhjQh.jpg)
